@@ -1,0 +1,31 @@
+The most populous cities in the world from 1500 to 2018
+Population (thousands)
+Sources: SEDAC; United Nations; Demographia
+
+12
+2017,Beijing,China,21911,East Asia
+2017,Cairo,Egypt,19490,Middle East
+2017,Delhi,India,27161,South Asia
+2017,Dhaka,Bangladesh,18954,South Asia
+2017,Karachi,Pakistan,17663,South Asia
+2017,Mexico City,Mexico,21347,Latin America
+2017,Mumbai,India,21761,South Asia
+2017,New York,United States,18673,North America
+2017,Osaka,Japan,20352,East Asia
+2017,Shanghai,China,25099,East Asia
+2017,São Paulo,Brazil,21487,Latin America
+2017,Tokyo,Japan,38130,East Asia
+
+12
+2018,Beijing,China,22674,East Asia
+2018,Cairo,Egypt,19850,Middle East
+2018,Delhi,India,27890,South Asia
+2018,Dhaka,Bangladesh,19633,South Asia
+2018,Karachi,Pakistan,18185,South Asia
+2018,Mexico City,Mexico,21520,Latin America
+2018,Mumbai,India,22120,South Asia
+2018,New York,United States,18713,North America
+2018,Osaka,Japan,20409,East Asia
+2018,Shanghai,China,25779,East Asia
+2018,São Paulo,Brazil,21698,Latin America
+2018,Tokyo,Japan,38194,East Asia
